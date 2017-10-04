@@ -1,0 +1,4 @@
+{
+	"cmd": ["start", "cmd", "python", "/k", "$file_name"],
+	"shell": true
+}
